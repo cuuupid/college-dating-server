@@ -2,3 +2,4 @@
 secret/*
 db/*
 *.config
+node_modules/*
